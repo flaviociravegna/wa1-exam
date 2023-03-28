@@ -1,0 +1,20 @@
+.courseNavbarTop {
+    background-color: rgb(248, 123, 13);
+}
+
+.titleNavbarTop {
+    margin-left: 10px;
+}
+
+.logInOutNavbar {
+    font-size: 14pt;
+    font-weight: 600;
+    color: rgb(248, 123, 13);
+    background-color: white;
+    border-color: white;
+}
+
+.logInOutNavbar span {
+    display: flex;
+    align-items: center;
+}

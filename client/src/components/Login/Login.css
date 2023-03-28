@@ -1,0 +1,39 @@
+#formContainer {
+    display: block;
+    font-family: sans-serif;
+    max-width: 600px;
+    background-color: white;
+    border: 1px solid rgb(180, 180, 180);
+    border-radius: 5px;
+    padding: 40px;
+}
+
+.wrapper {
+    padding-top: 30px;
+}
+
+.lblForm {
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+#loginTitle {
+    text-align: center;
+    font-size: 22pt;
+}
+
+#btnWrapper {
+    margin-top: 20px;
+}
+
+#btnSubmit {
+    display: block;
+    float: right;
+    width: 49%;
+}
+
+#btnCancel {
+    float: left;
+    width: 49%;
+    mix-blend-mode: difference;
+}

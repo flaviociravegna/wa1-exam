@@ -1,0 +1,10 @@
+.courseTable {
+    font-size: 9pt;
+}
+
+.courseTable thead {
+    font-weight: bold;
+    color: white;
+    background-color: rgb(100, 100, 100);
+    text-align: center;
+}

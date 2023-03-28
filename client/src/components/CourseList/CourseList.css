@@ -1,0 +1,71 @@
+#btnCreateStudyPlan {
+    color: white;
+    font-weight: 650;
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+    height: 50px;
+    background-color: rgb(0, 128, 255);
+    border: 1px solid rgb(0, 128, 255);
+}
+
+#btnCreateStudyPlan:hover {
+    color: rgb(65, 65, 65);
+    background-color: rgb(193, 233, 255);
+}
+
+#table_header {
+    font-size: 18pt;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#menuForm {
+    display: block;
+}
+
+#btnWrapperMenu {
+    margin-top: 20px;
+}
+
+#btnWrapperMenu2 {
+    margin-top: 20px;
+}
+
+#btnConfirm {
+    display: block;
+    float: right;
+    width: 49%;
+}
+
+#btnBack {
+    float: left;
+    width: 49%;
+    mix-blend-mode: difference;
+}
+
+#btnConfermaPiano {
+    display: block;
+    margin-top: 5px;
+    width: 100%;
+}
+
+#btnAnnullaModifichePiano {
+    display: block;
+    float: left;
+    margin-bottom: 5px;
+    width: 49%;
+    mix-blend-mode: difference;
+}
+
+#btnCancellaPiano {
+    display: block;
+    float: right;
+    margin-bottom: 5px;
+    width: 49%;
+    mix-blend-mode: difference;
+}
+
+#menuForm select:hover {
+    cursor: pointer;
+}
